@@ -1,0 +1,3 @@
+const miFuncion = require("C:\Users\juana\OneDrive\Escritorio\curso_js\js\aspirantes-mir-javascript\hello.js");
+
+miFuncion("Juan");
